@@ -16,13 +16,14 @@ class Movie():
     """
 
     # define the class
-    def __init__(self, movie_name, movie_year, movie_storyline, movie_poster_url, movie_trailer_url, movie_length):
-        self.title               = movie_name
-        self.year                = movie_year
-        self.storyline           = movie_storyline
-        self.poster_image_url    = movie_poster_url
+    def __init__(self, movie_name, movie_year, movie_storyline,
+                 movie_poster_url, movie_trailer_url, movie_length):
+        self.title = movie_name
+        self.year = movie_year
+        self.storyline = movie_storyline
+        self.poster_image_url = movie_poster_url
         self.trailer_youtube_url = movie_trailer_url
-        self.length              = movie_length
+        self.length = movie_length
 
     # define the method that plays the trailer
     def show_trailer(self):
