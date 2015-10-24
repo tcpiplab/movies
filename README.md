@@ -2,6 +2,7 @@ Project 1 of the Udacity Full Stack Nanodegree
 ==============================================
 [Programming Foundations with Python][1] course
 ------------------------------------------
+![Screenshot of webpage](https://cloud.githubusercontent.com/assets/816651/10708514/13e5ea0a-79c0-11e5-8d6c-c3c3a3ba42a8.png)
 
 TO BUILD THE WEB PAGE
 ---------------------
